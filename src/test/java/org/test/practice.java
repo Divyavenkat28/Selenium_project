@@ -5,5 +5,6 @@ public class practice {
 		System.out.println("hi");
 		System.out.println("good morning");
 		System.out.println("good Evening");
+		System.out.println("hello everyone");
 	}
 }
